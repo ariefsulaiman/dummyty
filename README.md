@@ -158,168 +158,74 @@
 ![Slide16](https://user-images.githubusercontent.com/118953928/213139369-791b81b3-4fb5-4b09-9474-af886f6de189.JPG)
 </details>
 
-## Day 17 - Design and characterise one library cell using Layout tool and spice simulator
+## Day 19 - Final steps for RTL2GDS
 
-###  Cell design and characterization flows
+###  Power Distribution Network and routing
 	
 <details>
-<summary>IO placer revision</summary>
-
-content
-</details>
-	
-<details>
-<summary>SPICE deck creation for CMOS inverter</summary>
+<summary>Introduction to Maze Routing Lee’s algorithm</summary>
 
 content
 </details>
 	
 <details>
-<summary>SPICE simulation lab for CMOS inverter</summary>
-
-content
-</details>
-
-<details>
-<summary>Switching Threshold Vm</summary>
-
-content
-</details>
-
-<details>
-<summary>Static and dynamic simulation of CMOS inverter</summary>
-
-content
-</details>
-
-<details>
-<summary>Steps to run floorplan using OpenLANE</summary>
+<summary>Lee’s Algorithm conclusion</summary>
 
 content
 </details>
 	
 <details>
-<summary>Review floorplan files and steps to view floorplan</summary>
+<summary>Design Rule Check</summary>
+
+content
+</details>
+
+###  Power Distribution Network and routing
+
+<details>
+<summary>Lab steps to build power distribution network</summary>
 
 content
 </details>
 	
 <details>
-<summary>Lab steps to git clone vsdstdcelldesign</summary>
-
-content
-</details>
-
-###  Inception of Layout & CMOS fabrication process
-
-<details>
-<summary>Create Active regions</summary>
+<summary>Lab steps from power straps to std cell power</summary>
 
 content
 </details>
 	
 <details>
-<summary>Formation of N-well and P-well</summary>
+<summary>Basics of global and detail routing and configure TritonRoute</summary>
+
+content
+</details>
+
+
+### TritonRoute Features
+	
+<details>
+<summary>TritonRoute feature 1 - Honors pre-processed route guides</summary>
 
 content
 </details>
 	
 <details>
-<summary>Formation of gate terminal</summary>
-
-content
-</details>
-
-<details>
-<summary>Lightly doped drain (LDD) formation</summary>
-
-content
-</details>
-
-<details>
-<summary>Source & drain formation</summary>
-
-content
-</details>
-
-<details>
-<summary>Local interconnect formation</summary>
+<summary>TritonRoute Feature2 & 3 - Inter-guide connectivity and intra- & inter-layer routing</summary>
 
 content
 </details>
 	
 <details>
-<summary>Higher level metal formation</summary>
-
-content
-</details>
-	
-<details>
-<summary>Lab introduction to Sky130 basic layers layout and LEF using inverter</summary>
+<summary>TritonRoute method to handle connectivity</summary>
 
 content
 </details>
 
 <details>
-<summary>Lab steps to create std cell layout and extract spice netlist</summary>
+<summary>Routing topology algorithm and final files list post-route</summary>
 
 content
 </details>
 
 
-### Cell design and characterization flows
-	
-<details>
-<summary>Lab steps to create final SPICE deck using Sky130 tech</summary>
-
-content
-</details>
-	
-<details>
-<summary>Lab steps to characterize inverter using sky130 model files</summary>
-
-content
-</details>
-	
-<details>
-<summary>Lab introduction to Magic tool options and DRC rules</summary>
-
-content
-</details>
-
-<details>
-<summary>Lab introduction to Sky130 pdk's and steps to download labs</summary>
-
-content
-</details>
-
-<details>
-<summary>Lab introduction to Magic and steps to load Sky130 tech-rulesn</summary>
-
-content
-</details>
-
-<details>
-<summary>Lab exercise to fix poly.9 error in Sky130 tech-file</summary>
-
-content
-</details>
-	
-<details>
-<summary>Lab exercise to implement poly resistor spacing to diff and tap</summary>
-
-content
-</details>
-	
-<details>
-<summary>Lab challenge exercise to describe DRC error as geometrical construct</summary>
-
-content
-</details>
-
-<details>
-<summary>Lab challenge to find missing or incorrect rules and fix themt</summary>
-
-content
-</details>
 
